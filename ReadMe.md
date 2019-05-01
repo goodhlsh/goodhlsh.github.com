@@ -1,3 +1,3 @@
 #mygithub
 
-这是一个github的开始！
+THIS is 鎴戠殑缁勫搧
